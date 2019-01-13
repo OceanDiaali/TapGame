@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TapGame</string>
+    <string name="start_text">Tap to play</string>
+    <string name="hi_score">HiScore:\n0</string>
+    <string name="timer_label">20  </string>
+    <string name="score_label">0</string>
+</resources>
